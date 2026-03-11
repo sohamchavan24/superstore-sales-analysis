@@ -29,5 +29,27 @@ This project performs Exploratory Data Analysis (EDA) on a Superstore sales data
 ## Dataset
 Superstore Sales Dataset
 
+## Visualizations
+
+### Category vs Profit
+Shows how profit varies across product categories.
+
+![Category vs Profit](images/category_profit_barplot.png)
+
+### Correlation Heatmap
+Shows the correlation between Sales, Profit, Quantity, and Shipping Days.
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Monthly Sales Trend
+Displays how total sales change across months.
+
+![Monthly Sales Trend](images/monthly_sales_barchart.png)
+
+### Sales vs Profit Relationship
+Shows the relationship between sales value and profit.
+
+![Sales vs Profit](images/sales_profit_scatterplot.png)
+
 ## Author
 Soham Chavan
